@@ -22,7 +22,7 @@
     "mithril"
   ],
   "dependencies": {
-    "mithril": "^0.1.28",
+    "mithril": "latest",
     "vdom-benchmark-base": "^0.2.0"
   },
   "devDependencies": {
