@@ -4,7 +4,7 @@ var benchmark = require('vdom-benchmark-base');
 var m = require('mithril');
 
 var NAME = 'mithril';
-var VERSION = '0.1.28';
+var VERSION = '0.2.0';
 
 function renderTree(nodes) {
   var children = [];
